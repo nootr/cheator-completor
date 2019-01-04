@@ -28,41 +28,41 @@ Cull three cards:
 **TODO: determine if this is the best way to start (maybe a bit suspicious?)**
 
 *First shuffle*
- 1) Run one less than the first number
- 2) In-jog running one more than the second number
- 3) Out-jog running one less than the third number
- 4) Throw
+* Run one less than the first number
+* In-jog running one more than the second number
+* Out-jog running one less than the third number
+* Throw
 
 *Second shuffle*
- 5) Under-cut to out-jog, forming break at in-jog
- 6) In-jog top card during downward motion of right hand
- 7) Run one
- 8) Throw
- 9) Shuffle off
+* Under-cut to out-jog, forming break at in-jog
+* In-jog top card during downward motion of right hand
+* Run one
+* Throw
+* Shuffle off
 
 *Third shuffle*
-10) Under-cut to in-jog
-11) Shuffle off
+* Under-cut to in-jog
+* Shuffle off
 
 *Fourth shuffle*
-12) Under-cut about half the deck
-13) Shuffle off, making sure the last three cards are kept together
+* Under-cut about half the deck
+* Shuffle off, making sure the last three cards are kept together
 
 The three desired cards should now be on top.
 
 *Fifth shuffle*
-14) Under-cut about three quarters of the deck
-15) Run six
-16) In-jog
-17) Shuffle off
+* Under-cut about three quarters of the deck
+* Run six
+* In-jog
+* Shuffle off
 
 *Sixth shuffle*
-18) Under-cut to in-jog
-19) In-jog running nine
-20) Shuffle off
+* Under-cut to in-jog
+* In-jog running nine
+* Shuffle off
 
 *Final cut*
-21) Cut at in-jog
+* Cut at in-jog
 
 Deal 3-2-3 and have fun.
 
