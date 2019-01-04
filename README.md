@@ -27,43 +27,36 @@ to the last card instead of its absolute position in the deck.
 
 Cull three cards:
 
-**TODO: determine if this is the best way to start (maybe a bit suspicious?)**
-
 *First shuffle*
+* Under-cut about half/third of the deck
+* In-jog
+* Shuffle off
+
+*Second shuffle*
+* Under-cut to in-jog
 * Run one less than the first number
 * In-jog running one more than the second number
 * Out-jog running one less than the third number
 * Throw
 
-*Second shuffle*
+*Third shuffle*
 * Under-cut to out-jog, forming break at in-jog
 * In-jog top card during downward motion of right hand
 * Run one
 * Throw
 * Shuffle off
 
-*Third shuffle*
+*Fourth shuffle*
 * Under-cut to in-jog
 * Shuffle off
 
-*Fourth shuffle*
-* Under-cut about half the deck
-* Shuffle off, making sure the last three cards are kept together
-
-The three desired cards should now be on top.
-
 *Fifth shuffle*
-* Under-cut about three quarters of the deck
-* Run six
-* In-jog
-* Shuffle off
+* Under-cut about half
+* In-jog running six
+* Throw
 
 *Sixth shuffle*
 * Under-cut to in-jog
-* In-jog running nine
 * Shuffle off
-
-*Final cut*
-* Cut at in-jog
 
 Deal 3-2-3 and have fun.
