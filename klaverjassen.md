@@ -47,18 +47,16 @@ Cull three cards:
 The three desired cards should now be on top.
 
 14) Under-cut about three quarters of the deck
-15) In-jog running 6
-16) Out-jog
+15) Run six
+16) In-jog
 17) Shuffle off
 
-18) Under-cut to out-jog, forming break at in-jog
-19) In-jog
-20) Throw
-21) Run 3
-22) Shuffle off
+18) Under-cut to in-jog
+19) In-jog running nine
+20) Shuffle off
 
-23) Under-cut to in-jog
-24) Shuffle off
+21) Under-cut to in-jog
+22) Shuffle off
 
 Deal 3-2-3 and have fun.
 
