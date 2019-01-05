@@ -70,6 +70,8 @@ relative to the last card instead of its absolute position in the deck.
 * Under-cut to in-jog
 * Shuffle off
 
+*Optional: False cut*
+
 Deal 3-2-3 and have fun.
 
 ## Credits
