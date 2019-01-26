@@ -38,35 +38,63 @@ relative to the last card instead of its absolute position in the deck.
 
 *Optional: False riffle shuffle*
 
-**First shuffle**
+**First shuffle; winning their trust**
+
+*I showed this routine to a friend of mine. After explaining I was going to deal
+my partner three aces, it was at this moment - during the first shuffle - he
+said: "But now you cannot know where the aces are!" For me, this showed the
+importance of this stage: it's the simplest of the six shuffles and looks the
+most natural because no cards are being run one-by-one, which might be giving
+the other person the feeling that you've lost control. So make it look like you
+don't have control. Maybe even drop a card or two during shuffling off to give
+the long runs in the next shuffle a bit more purpose.*
 * Under-cut about half/third of the deck
 * In-jog
 * Shuffle off
 
-**Second shuffle**
+**Second shuffle; aiming for the aces**
+
+*Now it's time to mark the targets. Two jogs are being made, creating three
+packets of cards with all three aces placed on top or bottom of a packet. Place
+all cards after the first jog randomly divided between the in-jog and the
+out-jog to make it look like you're just sloppy and not creating jogs.*
 * Under-cut to in-jog
 * Run one less than the first number
 * In-jog running one more than the second number
 * Out-jog running one less than the third number
 * Throw
 
-**Third shuffle**
+**Third shuffle; bringing them together**
+
+*Now we know where the aces are, we will bring them together. This is the
+hardest shuffle to do smoothly due to the in-jog that's being made by the left
+hand which can easily disrupt the rhythm of the shuffles.*
 * Under-cut to out-jog, forming break at in-jog
 * In-jog top card during downward motion of right hand
 * Run one
 * Throw
 * Shuffle off
 
-**Fourth shuffle**
+**Fourth shuffle; getting total control**
+
+*The three cards are now packed together and marked by an in-jog. This shuffle
+is meant to simply place these cards on the bottom of the stock.*
 * Under-cut to in-jog
 * Shuffle off
 
-**Fifth shuffle**
+**Fifth shuffle; adding a bias to the position**
+
+*We want to give our partner the controlled cards, as this will look a lot less
+suspicious. The easiest way to achieve this is to move six cards below our
+controlled aces.*
 * Under-cut about half
 * In-jog running six
 * Throw
 
-**Sixth shuffle**
+**Sixth shuffle; the end**
+
+*Nothing special here. Just like in earlier stages, shuffle in a sloppy manner
+to lower any suspicion about earlier in-jogs.*
 * Under-cut to in-jog
 * Shuffle off
 
