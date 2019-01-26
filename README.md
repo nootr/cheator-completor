@@ -34,18 +34,6 @@ prepared by determining the position of the target cards which is quite easy to
 do during the last counting phase. Note that the number of every target card is
 relative to the last card instead of its absolute position in the deck.
 
-One important thing to note is what happens if one of the three numbers is 1.
-There should be no problem if the first or second number equals one, but notice
-the following steps during the second shuffle:
-
-* Out-jog running one less than the third number
-* Throw
-
-This means that - in this scenario - the out-jog step is skipped, so that the
-throw that follows needs to be fully out-jogged. This seems unnatural and might
-give away the under-cut that follows, so my advice is to avoid having a 1 as
-third number and look for the next decent card you see during the preparation.
-
 ## The routine
 
 *Optional: False riffle shuffle*
@@ -82,7 +70,7 @@ out-jog to make it look like you're just sloppy and not creating jogs.*
 hardest shuffle to do smoothly due to the in-jog that's being made by the left
 hand which can easily disrupt the rhythm of the shuffles.*
 * Under-cut to out-jog, forming break at in-jog
-* In-jog top card during downward motion of right hand
+* In-jog top card with your left hand
 * Run one
 * Throw
 * Shuffle off
@@ -113,6 +101,46 @@ to lower any suspicion about earlier in-jogs.*
 *Optional: False cut*
 
 Deal 3-2-3 and have fun.
+
+## Special cases
+
+One important thing to note is what happens if one of the three numbers is 1. If
+the first number equals one (the first card starts on top of the stock), nothing
+special happens. Just follow the normal routine. However, things become
+interesting when the second or third number equals one.
+
+### Good news: the second number equals one
+
+If the second number equals one, the first two cards are already together. This
+means you can skip the 'Run one, then throw' steps in the third shuffle and
+immediately run the packet of two cards and shuffle off. Also, because the
+packet is always two cards, there's no need for the first in-jog of the second
+shuffle! This means the second and third shuffles are as follows:
+
+**Second shuffle; aiming for the aces**
+* Under-cut to in-jog
+* Run the first two numbers
+* In-jog running one less than the third number
+* Throw
+
+**Third shuffle; bringing them together**
+* Under-cut to in-jog
+* In-jog top card with your left hand
+* Run two
+* Shuffle off
+
+### Bad news: the third number equals one
+
+This is a scenario you'd rather not be in. Notice the following steps during
+the second shuffle:
+
+* Out-jog running one less than the third number
+* Throw
+
+This means that - in this scenario - the out-jog step is skipped, so that the
+throw that follows needs to be fully out-jogged. This seems unnatural and might
+give away the under-cut that follows, so my advice is to avoid having a 1 as
+third number and look for the next decent card you see during the preparation.
 
 ## Credits
 
