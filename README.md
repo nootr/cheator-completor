@@ -34,6 +34,18 @@ prepared by determining the position of the target cards which is quite easy to
 do during the last counting phase. Note that the number of every target card is
 relative to the last card instead of its absolute position in the deck.
 
+One important thing to note is what happens if one of the three numbers is 1.
+There should be no problem if the first or second number equals one, but notice
+the following steps during the second shuffle:
+
+* Out-jog running one less than the third number
+* Throw
+
+This means that - in this scenario - the out-jog step is skipped, so that the
+throw that follows needs to be fully out-jogged. This seems unnatural and might
+give away the under-cut that follows, so my advice is to avoid having a 1 as
+third number and look for the next decent card you see during the preparation.
+
 ## The routine
 
 *Optional: False riffle shuffle*
