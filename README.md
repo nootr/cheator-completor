@@ -103,7 +103,16 @@ to lower any suspicion about earlier in-jogs.*
 * Under-cut to in-jog
 * Shuffle off
 
-*Optional: False cut*
+**Cut the deck**
+
+*Any shuffle should end with a cut, so a quick and dirty false cut is made
+here. A way to do this is to replace the sixth overhand shuffle with a cut to
+the break made by the last in-jog, but I prefer a simple false cut which is
+very deceiving, but requires no technical skills.*
+* Kick-cut top half into left hand
+* Tap side of right half on top of left half
+* Throw right half on table
+* Throw left half on top of right half
 
 Deal 3-2-3 and have fun.
 
@@ -152,4 +161,6 @@ third number and look for the next decent card you see during the preparation.
 This routine was inspired by a YouTube video of magician Chris Ramsay: ['I
 learned How to CHEAT at POKER'](https://www.youtube.com/watch?v=4PSbUntHQgo).
 The cull shuffle is taken from the legendary book 'Expert at the Card Table' by
-S. W. Erdnase.
+S. W. Erdnase. The false cut is taken from a YouTube video of Alex Pandrea:
+['Learn 3 of my FAVORITE False Cuts : Sleight
+Tutorial'](https://www.youtube.com/watch?v=UV9_qgA4YGQ&t=415s).
