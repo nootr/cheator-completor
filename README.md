@@ -36,9 +36,7 @@ relative to the last card instead of its absolute position in the deck.
 
 ## The routine
 
-*Optional: False riffle shuffle*
-
-**First shuffle; winning their trust**
+**First overhand shuffle - winning their trust**
 
 *I showed this routine to a friend of mine. After explaining I was going to deal
 my partner three aces, it was at this moment - during the first shuffle - he
@@ -52,7 +50,7 @@ the long runs in the next shuffle a bit more purpose.*
 * In-jog
 * Shuffle off
 
-**Second shuffle; aiming for the aces**
+**Second overhand shuffle - aiming for the aces**
 
 *Now it's time to mark the targets. Two jogs are being made, creating three
 packets of cards with all three aces placed on top or bottom of a packet. Place
@@ -64,7 +62,7 @@ out-jog to make it look like you're just sloppy and not creating jogs.*
 * Out-jog running one less than the third number
 * Throw
 
-**Third shuffle; bringing them together**
+**Third overhand shuffle - bringing them together**
 
 *Now we know where the aces are, we will bring them together. This is the
 hardest shuffle to do smoothly due to the in-jog that's being made by the left
@@ -75,14 +73,21 @@ hand which can easily disrupt the rhythm of the shuffles.*
 * Throw
 * Shuffle off
 
-**Fourth shuffle; getting total control**
+**Fourth overhand shuffle - getting total control**
 
 *The three cards are now packed together and marked by an in-jog. This shuffle
 is meant to simply place these cards on the bottom of the stock.*
 * Under-cut to in-jog
 * Shuffle off
 
-**Fifth shuffle; adding a bias to the position**
+**Riffle shuffle - changing things up**
+
+*The three aces are on the bottom of the stock, so this is the perfect moment
+to do a couple of controlled riffle shuffles that keep the bottom cards.*
+* Riffle at least three cards with the bottom packet
+* Shuffle off
+
+**Fifth overhand shuffle - adding a bias to the position**
 
 *We want to give our partner the controlled cards, as this will look a lot less
 suspicious. The easiest way to achieve this is to move six cards below our
@@ -91,7 +96,7 @@ controlled aces.*
 * In-jog running six
 * Throw
 
-**Sixth shuffle; the end**
+**Sixth overhand shuffle - the end**
 
 *Nothing special here. Just like in earlier stages, shuffle in a sloppy manner
 to lower any suspicion about earlier in-jogs.*
