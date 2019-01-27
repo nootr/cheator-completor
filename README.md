@@ -1,12 +1,13 @@
 # Cheator completor
 
-My recipe to cheat at my favorite game: *klaverjassen*. This routine will make
-sure three chosen cards will be dealt to your partner using nothing but what
-seems to be normal overhand shuffles. How awesome is that?
+My recipe to cheat at my favorite game: *klaverjassen*, a game that uses 32
+cards instead of all 52. This routine will make sure three of these cards will
+be dealt to your partner using nothing but what seems to be normal overhand
+shuffles, riffle shuffles and a cut. How awesome is that?
 
-This is called a "blind" shuffle, as it can be performed without looking at the
-cards. This is why I want to make sure I can do this smoothly while blindfolded
-before I ever use it in a real game.
+This is a so-called "blind" shuffle as it can be performed without looking at
+the cards, so make sure you could do this smoothly while blindfolded before
+using it in a real game.
 
 ## Techniques
 
@@ -87,7 +88,7 @@ to do a couple of controlled riffle shuffles that keep the bottom cards.*
 * Riffle at least three cards with the bottom packet
 * Shuffle off
 
-**Fifth overhand shuffle - adding a bias to the position**
+**Fifth overhand shuffle - lifting the aces**
 
 *We want to give our partner the controlled cards, as this will look a lot less
 suspicious. The easiest way to achieve this is to move six cards below our
@@ -96,14 +97,14 @@ controlled aces.*
 * In-jog running six
 * Throw
 
-**Sixth overhand shuffle - the end**
+**Sixth overhand shuffle - finishing off**
 
 *Nothing special here. Just like in earlier stages, shuffle in a sloppy manner
 to lower any suspicion about earlier in-jogs.*
 * Under-cut to in-jog
 * Shuffle off
 
-**Cut the deck**
+**Cut the deck - following conventions**
 
 *Any shuffle should end with a cut, so a quick and dirty false cut is made
 here. A way to do this is to replace the sixth overhand shuffle with a cut to
@@ -114,7 +115,8 @@ very deceiving, but requires no technical skills.*
 * Throw right half on table
 * Throw left half on top of right half
 
-Deal 3-2-3 and have fun.
+After seemingly harmless overhand shuffles, riffle shuffles and a cut you are
+ready. Now deal 3-2-3 and have fun!
 
 ## Special cases
 
